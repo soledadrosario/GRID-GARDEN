@@ -1,0 +1,9 @@
+#jardín {
+    pantalla: cuadrícula;
+    columnas de plantilla de cuadrícula: 20% 20% 20% 20% 20%;
+    filas de plantilla de cuadrícula: 20% 20% 20% 20% 20%;
+  }
+  
+  #agua {
+  grid-row: 3/6
+  }
